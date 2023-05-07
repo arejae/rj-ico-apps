@@ -1,2 +1,1 @@
-# rj-ico-apps
-ICO Apps
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
