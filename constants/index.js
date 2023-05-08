@@ -1015,3 +1015,5 @@ export const TOKEN_CONTRACT_ABI = [
 export const NFT_CONTRACT_ADDRESS = "0xd14811bf12Ce6cb7116Eb340b1b8d75816532e13";
 export const TOKEN_CONTRACT_ADDRESS = "0xdEA108906e9999627EfD660723F966292D0cC317";
 
+
+//https://rj-ico-apps.vercel.app/
